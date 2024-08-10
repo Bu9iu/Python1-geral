@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "python1-geral"
+version = "0.1.0"
+description = ""
+authors = ["Kerman <88949797+Bu9iu@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
